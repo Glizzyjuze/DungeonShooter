@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DXA7EQscFo1O/0I+kwyI3tKRkLHIHElfJVT/IrWfZlT/2vll+WhlIAq0IgILnjdxMRwAN8DWEcBesjv/k5K0KQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hugo.zingmark\\Desktop\\VS\\DungeonShooter\\DungeonShooter\\DungeonShooter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hugo.zingmark\\.nuget\\packages\\raylib-cs\\4.2.0.2\\raylib-cs.4.2.0.2.nupkg.sha512",
+    "C:\\Users\\Hugo.zingmark\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
